@@ -1,0 +1,3 @@
+po,supplier,sku,qty,expected_date,status
+PO001,Regular Supplies,F101,10,2026-10-08,Pending
+PO002,Hydro Parts,P201,2,2026-10-12,Pending

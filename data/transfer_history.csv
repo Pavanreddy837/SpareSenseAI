@@ -1,0 +1,11 @@
+draft_id,action,sku,from_location,to_location,quantity,donor_stock,destination_stock,donor_safety_buffer,status,created_at,reason,decided_at,estimated_source_after,estimated_destination_after
+,TRANSFER_DRAFT,F101,Belgaum,Gokak,16,50.0,8.0,6,APPROVED,2026-10-10T01:51:14,Transfer 16 units from Belgaum to Gokak. Review stock and demand before approval.,2026-10-10T01:51:17,,
+,TRANSFER_DRAFT,F101,Belgaum,Gokak,16,50.0,8.0,6,REJECTED,2026-10-10T01:51:28,Transfer 16 units from Belgaum to Gokak. Review stock and demand before approval.,2026-10-10T01:51:30,,
+bdd4002d-c395-4c71-9868-19d60b565fdf,TRANSFER_DRAFT,F101,Gokak,Belgaum,1,8.0,50.0,6,APPROVED,2026-10-10T04:17:07,Transfer 1 units from Gokak to Belgaum. Review the proposal before approval.,2026-10-10T04:17:11,,
+41c93271-2d93-4446-a6f1-eca6ee4ffe85,TRANSFER_DRAFT,F101,Belgaum,Gokak,1,50.0,8.0,6,APPROVED,2026-10-10T04:23:38,Transfer 1 units from Belgaum to Gokak. Review the proposal before approval.,2026-10-10T04:24:20,,
+5719b4d5-fa4d-47e5-a55f-cd391c8ceaa1,TRANSFER_DRAFT,F101,Gokak,Belgaum,1,8.0,50.0,6,REJECTED,2026-10-10T04:26:23,Transfer 1 units from Gokak to Belgaum. Review the proposal before approval.,2026-10-10T04:26:26,,
+9a065e0e-05b8-413c-b45a-a7a79eba50ae,TRANSFER_DRAFT,F101,Gokak,Belgaum,1,8.0,50.0,6,APPROVED,2026-10-10T04:36:31,Transfer 1 units from Gokak to Belgaum. Review the proposal before approval.,2026-10-10T04:36:34,,
+68801aaf-adfa-4ba2-a04d-2304a3872f7b,TRANSFER_DRAFT,F101,Gokak,Belgaum,1,8.0,50.0,6,APPROVED,2026-10-10T05:14:16,Proposed transfer of 1 units from Gokak to Belgaum.,2026-10-09T23:44:20.787Z,7.0,51.0
+02fe7590-7c16-427b-8bac-7ce569999c7d,TRANSFER_DRAFT,F101,Gokak,Belgaum,1,8.0,50.0,6,REJECTED,2026-10-10T06:30:27,Proposed transfer of 1 units from Gokak to Belgaum.,2026-10-10T01:00:33.840Z,7.0,51.0
+2c2e39f7-78d3-4f8a-b808-adccd10ca3f3,TRANSFER_DRAFT,F101,Gokak,Belgaum,2,8.0,50.0,6,APPROVED,2026-10-10T07:30:28,Proposed transfer of 2 units from Gokak to Belgaum.,2026-10-10T02:00:32.195Z,6.0,52.0
+2b3522ad-023d-416a-ad8e-f9f34ae8f4ab,TRANSFER_DRAFT,BLT-1003,Gokak,Belgaum,3,9.0,1.0,6,APPROVED,2026-10-10T10:56:24,Proposed transfer of 3 units from Gokak to Belgaum.,2026-10-10T05:26:27.304Z,6.0,4.0

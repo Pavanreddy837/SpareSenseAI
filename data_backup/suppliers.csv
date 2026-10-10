@@ -1,0 +1,5 @@
+supplier,sku,price,lead_time_days,moq
+Regular Supplies,F101,100,7,10
+Express Supplies,F101,150,3,5
+Regular Supplies,F102,80,5,10
+Hydro Parts,P201,2000,4,2
